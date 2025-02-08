@@ -13,7 +13,7 @@ Original file is located at
 
 
 
-pip install --upgrade streamlit
+# pip install --upgrade streamlit
 
 import warnings
 warnings.filterwarnings("ignore", message="missing ScriptRunContext")
